@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author malik
+ * @author Malik
  */
 import java.util.Scanner;
 public class ReverseWord {
