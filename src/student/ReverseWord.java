@@ -7,6 +7,7 @@ package student;
 /**
  *
  * @author Malik
+ // fetth comment
  */
 import java.util.Scanner;
 public class ReverseWord {
